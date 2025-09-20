@@ -207,7 +207,7 @@ background-color: rgba(170, 173, 196, 0.4);
 #divcriada3{
     flex:1;
     border-left:1px solid black;
-    background-image: url("../Images/umpormil.png");
+    background-image: url("../img/umpormil.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
@@ -239,7 +239,7 @@ background-color: rgba(170, 173, 196, 0.4);
 #divcriada6{
     flex:1;
     border-left:1px solid black;
-    background-image: url("../Images/umpormil.png");
+    background-image: url("../img/umpormil.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
