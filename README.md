@@ -32,10 +32,10 @@ Após abrir a página:
 
 A aplicação detalha todo o processo de cálculo em um formato de "acordeão", permitindo que o usuário inspecione cada etapa do dimensionamento, desde a definição dos parâmetros iniciais até o cálculo final das armaduras.
 
-!Metodologia Passo a Passo 1
+![Metodologia Passo a Passo 1](images/metodologia1.png)
 *Visualização do passo a passo para verificação do tipo de armadura.*
 
-!Metodologia Passo a Passo 2
+![Metodologia Passo a Passo 2](images/metodologia2.png)
 *Detalhe do cálculo da área de aço.*
 
 ## Tecnologias Utilizadas
