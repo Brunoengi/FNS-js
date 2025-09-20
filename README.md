@@ -9,12 +9,14 @@ A ferramenta calcula a área de aço necessária (armadura de tração e, se nec
 </p>
 
 <p align="center">
-  ![Interface Principal](images/main.png)
+  <img src="./images/main.png" alt="Interface Principal" width="90%" />
 </p>
 
 <p align="center">
-  ![Interface Principal](main.png)
+  <img src="images/main.png" alt="Interface Principal" width="90%" />
 </p>
+
+
 
 
 ## Como Utilizar
