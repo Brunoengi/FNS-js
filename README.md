@@ -4,6 +4,8 @@ Esta é uma aplicação web interativa para o dimensionamento de seções retang
 
 A ferramenta calcula a área de aço necessária (armadura de tração e, se necessário, de compressão) e apresenta visualmente a seção transversal, os diagramas de deformação e tensão, além de um passo a passo detalhado de todos os cálculos realizados.
 
+![Interface Principal](images/main.png)
+
 ## Como Utilizar
 
 Para executar a aplicação, não é necessário um servidor web. Siga os passos abaixo:
@@ -25,6 +27,16 @@ Após abrir a página:
 -   Apresentação detalhada da metodologia de cálculo em formato de "acordeão".
 -   Interface intuitiva para entrada de dados.
 -   Validação de dados de entrada para evitar erros de cálculo.
+
+## Metodologia de Cálculo
+
+A aplicação detalha todo o processo de cálculo em um formato de "acordeão", permitindo que o usuário inspecione cada etapa do dimensionamento, desde a definição dos parâmetros iniciais até o cálculo final das armaduras.
+
+!Metodologia Passo a Passo 1
+*Visualização do passo a passo para verificação do tipo de armadura.*
+
+!Metodologia Passo a Passo 2
+*Detalhe do cálculo da área de aço.*
 
 ## Tecnologias Utilizadas
 
