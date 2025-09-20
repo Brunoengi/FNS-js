@@ -5,7 +5,15 @@ Esta é uma aplicação web interativa para o dimensionamento de seções retang
 A ferramenta calcula a área de aço necessária (armadura de tração e, se necessário, de compressão) e apresenta visualmente a seção transversal, os diagramas de deformação e tensão, além de um passo a passo detalhado de todos os cálculos realizados.
 
 <p align="center">
-  <img src="./images/main.png" alt="Interface Principal" width="90%" />
+  <img src="main.png" alt="Interface Principal" width="90%" />
+</p>
+
+<p align="center">
+  ![Interface Principal](images/main.png)
+</p>
+
+<p align="center">
+  ![Interface Principal](main.png)
 </p>
 
 
