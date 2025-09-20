@@ -36,10 +36,10 @@ Após abrir a página:
 A aplicação detalha todo o processo de cálculo em um formato de "acordeão", permitindo que o usuário inspecione cada etapa do dimensionamento, desde a definição dos parâmetros iniciais até o cálculo final das armaduras.
 
 <p align="center">
-  <img src="./images/metodologia1.png" alt="Metodologia 1" width="90%" />
+  <img src="./img/metodologia1.png" alt="Metodologia 1" width="90%" />
 </p>
 <p align="center">
-  <img src="./images/metodologia2.png" alt="Metodologia 2" width="90%" />
+  <img src="./img/metodologia2.png" alt="Metodologia 2" width="90%" />
 </p>
 
 ## Tecnologias Utilizadas
